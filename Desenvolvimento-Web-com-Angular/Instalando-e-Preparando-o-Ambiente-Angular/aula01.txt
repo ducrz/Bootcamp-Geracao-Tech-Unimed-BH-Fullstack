@@ -1,0 +1,35 @@
+Instrutor: Ivo Soares. GitHub: https://github.com/ivosoares
+
+Instalando e Preparando o Ambiente Angular
+
+
+Prazer, Angular!
+
+
+Apresentação inicial
+
+
+Proposta do conteúdo
+
+
+O que é o Angular
+
+As principais funcionalidades do Angular
+
+O que é uma página SPA
+
+Apresentação da IDE, Node e documentação do Angular
+
+Instalação do Angular
+
+Angular CLI
+
+npm install -g @angular/cli
+
+ng new my-first-project
+
+cd my-first-project
+
+ng serve
+
+Criando um projeto Angular
