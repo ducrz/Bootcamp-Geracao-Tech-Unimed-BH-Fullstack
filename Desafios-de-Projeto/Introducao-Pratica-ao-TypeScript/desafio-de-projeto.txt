@@ -1,0 +1,57 @@
+Desafio de Projeto: Introdução Prática ao TypeScript
+
+Instrutor: João Santos GitHub: https://github.com/lira1705
+
+Conteúdos
+
+Como usar os desafios de projeto para criar seu portfolio
+
+Apresentação do conteúdo
+
+O que é Typescript e preparação inicial com VSCode
+
+
+Criando uma aplicação simples de exemplo com JS
+
+
+Recriando a mesma aplicação simples com TS
+
+Por que usar o TS?
+
+Features do TS - Configuração básica e repositório
+
+Relação entre tipos de variáveis
+
+Lidando com objeto, enum e interface
+
+Sobre o tipo de variável any
+
+Definição de tipos de variáveis personalizados
+
+
+Definindo o tipo de retorno de uma função
+
+Quando usar o tipo void em funções
+
+Incluindo callback em funções
+
+Any está de volta e sobre unknown
+
+Como funciona o tipo never e o comando throw
+
+Breve revisão sobre os tipos apresentados
+
+tsconfig.json - target
+
+tsconfig.json - lib
+
+tsconfig.json - outDir e rootDir
+
+tsconfig.json - noImplicitAny e strictNullChecks
+
+Breve revisão do tsconfig.json
+
+Dúvidas e comentários - Parte 1
+
+Comentários sobre os desafios propostos
+Dúvidas e comentários finais
