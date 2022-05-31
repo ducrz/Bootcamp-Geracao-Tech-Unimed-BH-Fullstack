@@ -1,0 +1,39 @@
+Instrutora: Nathally Souza.
+
+MySql - Explorando relacionamentos com workbench
+
+
+Objetivos da Aula
+
+1. Operar com o Command Line
+
+2. Entender os relacionamentos
+
+3. Criar uma modelagem de banco
+
+
+Introdução ao Command Line
+
+
+Command Line
+
+/opt/lampp/bin/mysql -u root
+
+Windows
+
+mysql -u root
+
+show databases;
+
+Operar o banco de dados via terminal
+
+
+
+
+Operações básicas no command line - Parte 1
+
+
+
+
+
+Operações básicas no command line - Parte 2

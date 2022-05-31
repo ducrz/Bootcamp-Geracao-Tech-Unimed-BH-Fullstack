@@ -1,0 +1,52 @@
+Modelo Relacional
+
+
+Introdução ao tema
+
+
+Parte 13: INNER JOIN
+
+
+Modelo relacional
+
+INNER JOIN
+
+SELECT * FROM pessoas JOIN cursos ON pessoas.fk_cursos
+= cursos.id_cursos
+
+
+
+Parte 14: Hora da prática
+
+
+Atividade prática
+
+Criar uma modelagem de dados baseada no YouTube
+
+Realizar consultas com INNER JOIN
+
+
+
+Modelo relacional
+
+Relacionar informações entre várias tabelas
+
+As chaves estrangeiras permitem o relacionamento das tabelas
+
+Atomizar as informações
+
+
+
+Criando as tabelas videos e author
+
+Preparando a tabela videos para receber dados de outra tabela
+
+Realizando consulta com JOIN - Parte 1
+
+Criando a tabela seo e relacionando com a tabela videos
+
+Realizando consulta com JOIN - Parte 2
+
+Criando a tabela playlist
+
+Criando a tabela videos_playlist relacionando-a com outras tabelas
