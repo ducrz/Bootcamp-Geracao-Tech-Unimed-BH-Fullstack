@@ -1,0 +1,39 @@
+Conhecendo a CLI do .NET
+
+Conhecendo a CLI do .NET
+
+
+dotnet --version
+
+dotnet --help
+
+
+dotnet --info
+
+
+dotnet new 
+
+
+dotnet new --list --tag web
+
+
+dotnet new --help
+
+
+dotnet new console -o myapp
+
+cd myapp
+
+
+
+dotnet run
+
+
+dotnet build
+
+dotnet run
+
+
+dotnet restore
+
+dotnet run

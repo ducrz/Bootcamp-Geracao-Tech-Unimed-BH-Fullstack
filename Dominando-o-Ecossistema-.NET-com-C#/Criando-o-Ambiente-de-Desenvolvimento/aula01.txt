@@ -1,0 +1,16 @@
+Instrutor: Lucas Neves.
+
+
+Criando o ambiente de desenvolvimento
+
+
+
+
+Instalação do .NET
+
+Apresentação do curso
+
+Instalando o .NET
+
+
+https://dotnet.microsoft.com/en-us/download

@@ -1,0 +1,16 @@
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\bin\Debug\net5.0\myapp.exe
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\bin\Debug\net5.0\myapp.deps.json
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\bin\Debug\net5.0\myapp.runtimeconfig.json
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\bin\Debug\net5.0\myapp.runtimeconfig.dev.json
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\bin\Debug\net5.0\myapp.dll
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\bin\Debug\net5.0\ref\myapp.dll
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\bin\Debug\net5.0\myapp.pdb
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\myapp.csproj.AssemblyReference.cache
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\myapp.AssemblyInfoInputs.cache
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\myapp.AssemblyInfo.cs
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\myapp.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\myapp.dll
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\ref\myapp.dll
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\myapp.pdb
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Criando-o-Ambiente-de-Desenvolvimento\myapp\obj\Debug\net5.0\myapp.genruntimeconfig.cache

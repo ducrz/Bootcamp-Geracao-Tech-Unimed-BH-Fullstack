@@ -1,0 +1,3 @@
+Net Framework, Core e 5
+
+Diferenças entre .NET Framework, Core e 5
