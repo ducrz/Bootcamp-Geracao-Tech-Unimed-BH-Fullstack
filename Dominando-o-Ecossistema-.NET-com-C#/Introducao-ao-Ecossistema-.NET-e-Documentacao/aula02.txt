@@ -1,0 +1,21 @@
+Visão Geral do Ecossistema .NET
+
+.NET X ASP.NET: Conceitos e características
+
+
+https://github.com/dotnet
+
+.NET Standard
+
+https://docs.microsoft.com/pt-br/dotnet/standard/net-standard?tabs=net-standard-1-0
+
+Codespaces
+
+https://github.com/features/codespaces
+
+.NET 6.0
+
+https://dotnet.microsoft.com/en-us/download
+
+
+Um pouco da História do .NET

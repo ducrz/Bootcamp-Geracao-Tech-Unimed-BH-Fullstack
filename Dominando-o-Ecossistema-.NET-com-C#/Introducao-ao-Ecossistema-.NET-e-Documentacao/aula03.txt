@@ -1,0 +1,10 @@
+Sobre .NET Framework, .NET Core e Xamarin
+
+Desenvolvimento multiplataforma com .NET: contexto e conceitos
+
+Entendendo .NET Framework
+
+Entendendo .NET e .NET Core
+
+Entendendo Xamarin
+

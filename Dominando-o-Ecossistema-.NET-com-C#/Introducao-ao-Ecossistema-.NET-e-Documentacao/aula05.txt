@@ -1,0 +1,8 @@
+Ferramentas e linguagens
+
+
+Ferramentas para desenvolvimento e utilitários
+
+http://www.omnisharp.net/
+
+Linguagens suportadas pela plataforma .NET

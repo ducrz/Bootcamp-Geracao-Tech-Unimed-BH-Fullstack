@@ -1,0 +1,12 @@
+Introdução ao Ecossistema .NET e Documentação
+
+Instrutora: Carolina Santana Louzada.
+
+
+Apresentação do Curso
+
+
+Objetivo do Curso
+
+
+Ter uma visão geral do ecossistema .NET através de suas ferramentas, linguagens, padrões e usabilidade

@@ -1,0 +1,5 @@
+O que usar? Quando Usar?
+
+.NET x .NET Framework: Qual escolher para minha aplicação
+
+O que usar para cada tipo de aplicação

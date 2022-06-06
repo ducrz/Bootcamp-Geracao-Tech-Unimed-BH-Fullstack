@@ -1,0 +1,8 @@
+Padrão de Codificação .NET
+
+O que é escrever um bom código?
+
+Entender o Clean Code
+
+Convenções de nomenclatura
+
