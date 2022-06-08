@@ -1,0 +1,5 @@
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.AssemblyReference.cache
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfo.cs
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.CoreCompileInputs.cache

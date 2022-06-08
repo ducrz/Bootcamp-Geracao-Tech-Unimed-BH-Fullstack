@@ -1,0 +1,12 @@
+Instrutor: Gabriel Faraday 
+
+GitHub: https://github.com/gabrielfaraday
+
+Primeiros Passos com .NET
+
+
+O que é .NET?
+
+Conhecendo o Framework
+
+Como e onde usar o .NET

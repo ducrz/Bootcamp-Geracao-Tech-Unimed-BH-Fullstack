@@ -1,0 +1,14 @@
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\eduardo\Documents\GitHub\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\Dominando-o-Ecossistema-.NET-com-C#\Primeiros-Passos-com-.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

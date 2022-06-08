@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QmhHqbZLHEEYpW2sx0S5orOJo7/Y7n+bpzkwhSx9o7ciKMfXwa9/F0u3MLRErnmCOMpdh5oB721J5sRfjIgwTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduardo\\Documents\\GitHub\\Bootcamp-Geracao-Tech-Unimed-BH-Fullstack\\Dominando-o-Ecossistema-.NET-com-C#\\Primeiros-Passos-com-.NET\\03-Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\eduardo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\eduardo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\eduardo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

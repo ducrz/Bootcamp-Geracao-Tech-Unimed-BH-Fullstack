@@ -1,0 +1,11 @@
+Uma síntese do que é .NET
+
+Revisão introdutória
+
+dotnet new console -n Revisao
+
+Folder Revisao
+
+Praticando primeiros passos
+
+Dinâmica de desenvolvimento

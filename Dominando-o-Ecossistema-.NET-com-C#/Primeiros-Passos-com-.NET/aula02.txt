@@ -1,0 +1,59 @@
+Iniciando com .NET
+
+Preparando o ambiente
+
+
+https://dotnet.microsoft.com/en-us/download
+
+
+dotnet --version
+
+
+Conhecendo a CLI do .NET
+
+
+dotnet --help
+
+
+dotnet --info
+
+dotnet new --help
+
+
+
+Criando uma aplicação console
+
+
+dotnet new console -h
+
+
+dotnet new console -n DigitalInnovationOne
+
+
+cd DigitalInnovationOne
+
+explorer .
+
+code .
+
+
+dotnet restore
+
+dotnet build
+
+dotnet run
+
+Um nível acima do diretório:
+
+
+dotnet build DigitalInnovationOne
+
+
+dotnet run -h 
+
+dotnet run -p DigitalInnovationOne
+
+
+
+
+
