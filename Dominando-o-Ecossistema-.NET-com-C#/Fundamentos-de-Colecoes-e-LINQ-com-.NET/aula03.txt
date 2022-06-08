@@ -1,0 +1,39 @@
+Manipulando Arrays
+
+Etapa 1 - Algoritmos de ordenação
+
+
+Ordenando Arrays
+
+
+Para ordenar um array, existem diversos algoritmos de ordenação, diferentes técnicas e casos a serem considerados.
+
+
+Etapa 2 - Ordenando via bubble sort
+
+
+https://visualgo.net/en/sorting?slide=1
+
+
+Etapa 3 - Debugando o metodo bubble sort
+
+Etapa 4 - A classe Array
+
+
+A classe Array é uma classe do C# que nos oferece diversos métodos que nos auxiliam a trabalhar com arrays.
+
+Etapa 5 - Ordenando pela classe Array
+
+Etapa 6 - Copiando um Array
+
+Etapa 7 - Verificando um elemento existente
+
+Etapa 8 - Verificando todos os elementos do array
+
+Etapa 9 - Encontrando um elemento no array
+
+Etapa 10 - Encontrando o índice de um valor
+
+Etapa 11 - Redimensionando um array
+
+Etapa 12 - Convertendo um array

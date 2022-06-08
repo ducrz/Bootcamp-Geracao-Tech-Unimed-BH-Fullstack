@@ -1,0 +1,10 @@
+Instrutor: Leonardo Buta.
+
+
+Fundamentos de Coleções e LINQ com .NET
+
+Introdução
+
+
+
+

@@ -1,0 +1,14 @@
+Operações LINQ
+
+Etapa 1 - Introdução LINQ
+
+
+LINQ
+
+O Language-Integrated Query (LINQ) é uma maneira de você utilizar uma sintaxe de consulta padronizada para coleções de objetos.
+
+Etapa 2 - Obtendo e ordenando valores com LINQ
+
+Etapa 3 - Valores mínimo, máximo e médio com LINQ
+
+Etapa 4 - Sum e Distinct

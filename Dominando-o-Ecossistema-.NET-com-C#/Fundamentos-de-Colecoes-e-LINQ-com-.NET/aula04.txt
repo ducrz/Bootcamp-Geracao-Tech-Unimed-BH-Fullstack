@@ -1,0 +1,22 @@
+Coleções Genéricas
+
+Etapa 1 - Introdução coleções genéricas
+
+Coleção Genérica
+
+No C#, existem classes de coleções que agrupam valores, e essas classes são padronizadas para as operações mais comuns, como:
+
+Ordenação
+Obter valor por índice
+Obter valor com expressões
+Trabalhar com tamanhos dinâmicos
+
+
+
+Etapa 2 - Declarando e acessando uma lista
+
+Etapa 3 - Removendo elemento da lista
+
+Etapa 4 - Adicionando coleções na lista
+
+Etapa 5 - Adicionando elemento por índice

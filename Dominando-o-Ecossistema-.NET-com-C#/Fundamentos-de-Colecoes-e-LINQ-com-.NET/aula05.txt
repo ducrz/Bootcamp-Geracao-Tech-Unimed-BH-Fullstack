@@ -1,0 +1,23 @@
+Coleções Específicas
+
+Etapa 1 - Introdução coleções específicas
+
+Coleção Específica
+
+
+As coleções específicas implementam regras para sua ordem de acesso e manipulação de seus elementos, são elas:
+
+Queue (Fila): Obedece a ordem FIFO (First In First Out)
+Stack (Pilha): Obedece a ordem LIFO (Last In First Out)
+
+
+Etapa 2 - Introdução a Fila
+
+Etapa 3 - Filas na prática
+
+Etapa 4 - Introdução a Pilha
+
+Etapa 5 - Pilha na prática
+
+Etapa 5 - Pilha na prática
+
