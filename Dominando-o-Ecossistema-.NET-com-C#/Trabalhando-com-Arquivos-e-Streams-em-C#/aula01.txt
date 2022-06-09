@@ -1,0 +1,21 @@
+Instrutor: Ricardo Vicentini.
+
+
+Trabalhando com Arquivos e Streams em C#
+
+
+System.IO
+
+Introdução e Teoria System IO
+
+Demo Criar Arquivo
+
+Tratamento de Erros
+
+Diretórios
+
+File Move Copy
+
+DirectoryInfo
+
+FileInfo
