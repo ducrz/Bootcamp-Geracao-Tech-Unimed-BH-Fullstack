@@ -1,0 +1,6 @@
+Instrutora: Carolina Santana Louzada.
+
+
+Tratamento de Erro em C# com Exceptions
+
+Apresentação

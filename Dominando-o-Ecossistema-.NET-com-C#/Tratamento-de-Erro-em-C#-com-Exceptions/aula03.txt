@@ -1,0 +1,8 @@
+Entendendo a classe System.Exception
+
+
+Hierarquia de classes exception
+
+Propriedades e métodos úteis da classe Exception
+
+Comandos para lançar e tratar exceções
