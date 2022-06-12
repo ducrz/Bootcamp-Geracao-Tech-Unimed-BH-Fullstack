@@ -1,0 +1,35 @@
+Manipulando Arquivos
+
+Introdução arquivos
+
+Arquivos
+
+O C# nos apresenta algumas classes estáticas que facilitam o trabalho com arquivos, dentre elas:
+
+File
+Directory
+Path
+
+
+Listar diretórios
+
+Listar arquivos
+
+Criar diretório
+
+
+Apagar diretório
+
+Criar arquivo texto
+
+Criar arquivo texto com stream
+
+Adicionar novas linhas em um arquivo
+
+Lendo Arquivos
+
+Movendo arquivo
+
+Copiando arquivo
+
+Deletando arquivo

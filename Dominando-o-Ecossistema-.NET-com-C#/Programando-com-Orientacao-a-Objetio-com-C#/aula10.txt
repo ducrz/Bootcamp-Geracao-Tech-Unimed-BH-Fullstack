@@ -1,0 +1,15 @@
+Conclusão
+
+Conclusão
+
+Próximos passos
+
+
+Aprimorar seus conhecimentos com C#
+
+Tipos de variáveis
+Operadores (Aritméticos, comparação, lógicos e igualdade)
+Construtores
+Coleções
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/

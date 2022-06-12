@@ -1,0 +1,12 @@
+Abstração
+
+Entendendo o que é abstração
+
+Abstração
+
+Abstrair um objeto do mundo real para um contexto específico, considerando apenas os atributos importantes.
+
+
+Requisitos para o projeto
+
+Abstração na prática
