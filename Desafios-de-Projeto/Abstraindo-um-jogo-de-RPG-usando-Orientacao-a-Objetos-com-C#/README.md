@@ -1,6 +1,6 @@
 # Desafio de Projeto:  Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
 
-Desafio de Projeto do **Bootcamp Bootcamp Geração Tech Unimed-BH - Fullstackr**, promovido pela [Digital Innovation One](https://www.dio.me).
+Desafio de Projeto do **Bootcamp Bootcamp Geração Tech Unimed-BH - Fullstack**, promovido pela [Digital Innovation One](https://www.dio.me).
 
 ## Descrição do Desafio
 
