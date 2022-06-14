@@ -1,0 +1,14 @@
+Instrutor: Adeildo Neto. Github: https://github.com/Nethanos
+
+
+Introdução a Clean Code e SOLID com .NET e C#
+
+Apresentação do curso
+
+Conceitos de Clean Code
+
+Introdução a SOLID
+
+Princípios SOLID, parte 1
+
+Princípios SOLID, parte 2
