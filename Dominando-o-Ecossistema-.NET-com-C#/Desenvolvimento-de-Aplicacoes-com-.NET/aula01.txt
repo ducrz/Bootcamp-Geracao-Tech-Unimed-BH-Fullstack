@@ -1,0 +1,18 @@
+Instrutor: Anderson Moreira
+
+Desenvolvimento de aplicações com .NET
+
+Conheça o Entity Framework e crie apalicações ASP.NET
+
+
+O que é Entity Framework
+
+Introdução ao ASP .NET MVC
+
+Criando a primeira aplicação ASP .NET
+
+Desenvolvendo a aplicação
+
+Organizando a descrição
+
+Aplicando novas categorias no projeto
