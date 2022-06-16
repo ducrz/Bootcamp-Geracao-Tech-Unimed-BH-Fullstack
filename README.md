@@ -10,4 +10,8 @@ Durante o bootcamp, você irá desenvolver projetos práticos, participar de men
 ![Bootcamp Geração Tech Unimed-BH Fullstack](./assets/bootcam-geracao-tech-unimed-bh-fullstack.png)
 
 
-***Matrículas abertas até dia 12/06/2022:*** [Inscreva-se!](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-fullstack).
+
+**Conclusão do Bootcamp:** 16/06/2022
+
+![Certificado de Conclusão Bootcamp Geração Tech Unimed BH](assets/certificado-conclusao-bootcamp.jpg)
+
