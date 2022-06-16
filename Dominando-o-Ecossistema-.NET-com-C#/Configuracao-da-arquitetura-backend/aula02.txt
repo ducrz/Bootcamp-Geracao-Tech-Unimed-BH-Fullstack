@@ -1,0 +1,5 @@
+Protegendo a nossa API
+
+Configuração com 'provider' JWT
+
+Correção da Startup.cs

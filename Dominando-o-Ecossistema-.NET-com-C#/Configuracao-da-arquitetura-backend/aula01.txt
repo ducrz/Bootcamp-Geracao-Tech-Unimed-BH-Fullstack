@@ -1,0 +1,11 @@
+Instrutor: Leandro Bianch. GitHub: https://github.com/leandrobianch
+
+Configuração da arquitetura back-end com .NET Core
+
+Introdução e setup da API
+
+Conheça o Postman
+
+Introdução e biblioteca Swashbuckle.AspNetCore.Annotations
+
+Usando ConfigureApiBehaviorOptions

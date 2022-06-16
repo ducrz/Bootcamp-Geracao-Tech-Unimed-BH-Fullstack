@@ -1,0 +1,7 @@
+Setup da API - Camada de persistência
+
+Modelando as entidades de banco de dados
+
+Implementando HasForeingKey e configurando DbContext
+
+Aplicando o pacote EntityFrameworkCore.Tools

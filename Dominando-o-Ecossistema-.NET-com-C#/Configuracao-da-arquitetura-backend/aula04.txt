@@ -1,0 +1,5 @@
+Um pouco de design pattern
+
+O que é IOC e DI Pattern - Refatoração
+
+Finalizando aplicações de design pattern
