@@ -1,0 +1,25 @@
+Desafio de Projeto: Criando um APP simples de cadastro de séries em .NET
+
+Instrutor: Eliézer Zarpelão GitHub: https://github.com/elizarp
+
+Aprenda como criar um algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos, 
+o principal paradigma de programação utilizada no mercado.
+
+Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar recursos de coleção para salvar seus dados em memória.
+
+
+Conteúdos
+
+Como usar os desafios de projetos para criar seu portfólio
+
+Parte 1
+
+Parte 2
+
+Parte 3
+
+Parte 4
+
+Parte 5
+
+Objetivo do projeto
